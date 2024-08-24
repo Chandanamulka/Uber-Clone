@@ -1,2 +1,2 @@
-# Uber_Cone
+# Uber_Clone
 frontend and backend technologies
